@@ -1,5 +1,5 @@
 # F550 UAV System Suite
-UAV d...
+F550 UAV System Suite
 
 
 ## Licensing and Citation
