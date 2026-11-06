@@ -1,0 +1,2 @@
+# Ignore files starting with a tilde (MS Office temporary owner files, e.g., ~$document.docx)
+~$*
